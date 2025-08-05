@@ -8,10 +8,10 @@ I'm a passionate and motivated **Full-Stack Web Developer** with hands-on experi
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript`, `Python`, `PHP`, `HTML`, `CSS`, `SQL`
+`JavaScript`, `Python`, `PHP`,`SQL`
 
 **Frameworks & Tools:**  
-`React.js`, `Laravel`, `Django`, `Tailwind CSS`, `Bootstrap`,  
+`React.js`, `Laravel`, `Django`, `Tailwind CSS`, `Bootstrap`,  `Material UI`
 `Blade`, `Django REST Framework`, `MySQL`, `PostgreSQL`, `Git`, `GitHub`
 
 ---
