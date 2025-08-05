@@ -28,20 +28,8 @@ I'm a passionate and motivated **Full-Stack Web Developer** with hands-on experi
 
 ## 📊 GitHub Stats
 
-![Abdullatif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifzamani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latifzamani&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=latifzamani&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=latifzamani&color=blueviolet)
 
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](#) *(Add your LinkedIn link here)*
-- ✉️ zamaniabdullatif@gmail.com
-- 🌍 Portfolio: Coming Soon...
-
-> “The best way to predict the future is to create it.” – Peter Drucker
-
-Thanks for stopping by! 🚀
